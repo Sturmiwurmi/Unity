@@ -1,0 +1,3 @@
+[submodule "SuperTicTacToe"]
+	path = SuperTicTacToe
+	url = https://github.com/Sturmiwurmi/SuperTicTacToe.git
