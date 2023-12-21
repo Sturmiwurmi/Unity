@@ -4,3 +4,6 @@
 [submodule "Poker"]
 	path = Poker
 	url = https://github.com/Sturmiwurmi/Poker
+[submodule "name"]
+	path = name
+	url = https://github.com/Sturmiwurmi/SuperTicTacToe
