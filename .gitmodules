@@ -7,3 +7,6 @@
 [submodule "name"]
 	path = name
 	url = https://github.com/Sturmiwurmi/SuperTicTacToe
+[submodule "MCG"]
+	path = MCG
+	url = https://github.com/Sturmiwurmi/MCG
